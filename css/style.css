@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+ul {
+    background: #edf6ff;
+    width: 140px;
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+    position: fixed;
+    right: 10px;
+    top: 100px;
+}
+a {
+    color: #1b4268;
+}
